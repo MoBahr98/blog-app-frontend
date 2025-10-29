@@ -10,7 +10,7 @@ This frontend delivers a clean, responsive UI with markdown support, AI-powered 
 1. **Authentication** – Secure Sign Up & Login using JWT (via backend API).
 2. **Blog CRUD** – Create, edit, delete posts with optional cover image and unique slug URLs.
 3. **Markdown Support** – Write and preview blogs in markdown with syntax highlighting.
-4. **AI Blog Generator** – Automatically generate blog ideas and full markdown posts using AI (Gemini API).
+4. **AI Blog Generator** – Automatically ideas, summaries, full posts, and comment replies and full markdown posts using AI (Gemini API).
 5. **Tag Filtering** – Categorize posts by tags such as *Technology*, *Science*, *Economy*, *Politics*, and *Education*.
 6. **Search Functionality** – Search posts by title or content in real-time.
 7. **Admin Dashboard** – Manage blog posts, drafts, and comments.
